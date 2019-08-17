@@ -1,0 +1,21 @@
+.row{
+    width: 80%;
+    height: 600px;
+}
+
+.company-name {
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.company-name h1 {
+    text-align: center;
+    line-height: 60px;
+}
+
+.col-md-12 {
+    height: 400px;
+}
+
